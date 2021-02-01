@@ -26,7 +26,7 @@
                         isOpen = _useState[0],
                         setIsOpen = _useState[1];
 
-                    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+                    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("template", {
                         onClick: function onClick() {
                             return setIsOpen(true);
                         },
@@ -4355,4 +4355,4 @@ PERFORMANCE OF THIS SOFTWARE.
         /******/ })()
 
 ));
-//# sourceMappingURL=component.5aa92c81df4fc62311d4.js.map
+//# sourceMappingURL=component.6ec41f2b5713e5f1c599.js.map
