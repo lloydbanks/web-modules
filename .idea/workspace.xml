@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4667fbfb-f855-4a5e-b2f8-2abcbd20c44a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ribbon-modal/component.23390cda5cf071042e76.js" beforeDir="false" afterPath="$PROJECT_DIR$/ribbon-modal/component.23390cda5cf071042e76.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612209005100</updated>
-      <workItem from="1612209006245" duration="2031000" />
+      <workItem from="1612209006245" duration="2738000" />
     </task>
     <task id="LOCAL-00001" summary="add ribbon modal">
       <created>1612209151329</created>
@@ -57,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612210839577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update ribbon modal">
+      <created>1612213255160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612213255160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,16 +84,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ribbon modal" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ribbon modal" />
+    <MESSAGE value="update ribbon modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ribbon modal" />
   </component>
   <component name="WindowStateProjectService">
     <state x="597" y="280" key="MultipleFileMergeDialog" timestamp="1612211088602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="597" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612211088602" />
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612211095565">
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612213258645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612211095565" />
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612213258645" />
   </component>
 </project>

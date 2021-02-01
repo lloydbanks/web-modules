@@ -26,17 +26,17 @@
                         isOpen = _useState[0],
                         setIsOpen = _useState[1];
 
-                    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+                    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
                         onClick: function onClick() {
                             return setIsOpen(true);
                         },
                         __self: this,
                         __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 10,
-                            columnNumber: 5
+                            lineNumber: 11,
+                            columnNumber: 7
                         }
-                    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_consta_uikit_Modal__WEBPACK_IMPORTED_MODULE_1__.Modal, {
+                    }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_consta_uikit_Modal__WEBPACK_IMPORTED_MODULE_1__.Modal, {
                         isOpen: isOpen,
                         hasOverlay: true,
                         onOverlayClick: function onOverlayClick() {
@@ -45,7 +45,7 @@
                         __self: this,
                         __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 16,
+                            lineNumber: 13,
                             columnNumber: 7
                         }
                     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_consta_uikit_Text__WEBPACK_IMPORTED_MODULE_2__.Text, {
@@ -55,7 +55,7 @@
                         __self: this,
                         __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 21,
+                            lineNumber: 18,
                             columnNumber: 9
                         }
                     }, "\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0430 \u0434\u0430\u043D\u043D\u044B\u0445 ", isOpen.toString())));
@@ -4355,4 +4355,4 @@ PERFORMANCE OF THIS SOFTWARE.
         /******/ })()
 
 ));
-//# sourceMappingURL=component.ade13f778d52f851c4d6.js.map
+//# sourceMappingURL=component.5aa92c81df4fc62311d4.js.map
