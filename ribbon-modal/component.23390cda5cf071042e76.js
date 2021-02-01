@@ -26,17 +26,17 @@
                         isOpen = _useState[0],
                         setIsOpen = _useState[1];
 
-                    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+                    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
                         onClick: function onClick() {
                             return setIsOpen(true);
                         },
                         __self: this,
                         __source: {
                             fileName: _jsxFileName,
-                            lineNumber: 10,
-                            columnNumber: 5
+                            lineNumber: 11,
+                            columnNumber: 7
                         }
-                    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_consta_uikit_Modal__WEBPACK_IMPORTED_MODULE_1__.Modal, {
+                    }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_consta_uikit_Modal__WEBPACK_IMPORTED_MODULE_1__.Modal, {
                         isOpen: isOpen,
                         hasOverlay: true,
                         onOverlayClick: function onOverlayClick() {
@@ -4355,4 +4355,4 @@ PERFORMANCE OF THIS SOFTWARE.
         /******/ })()
 
 ));
-//# sourceMappingURL=component.1e43e55d1acded37f1d5.js.map
+//# sourceMappingURL=component.bff7cf25af9f1b6b6451.js.map
