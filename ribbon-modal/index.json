@@ -1,0 +1,14 @@
+{
+  "content": {
+    "componentUrl": "https://web-module.dsgrad.devops.lanit-tercom.com/ribbon/component.23390cda5cf071042e76.js",
+    "process": [
+      "fund"
+    ],
+    "subprocess": [
+      "data"
+    ],
+    "priority": "primary"
+  },
+  "name": "Ribbon modal",
+  "type": "Ribbon"
+}
