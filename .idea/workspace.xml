@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612215096671</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add export data">
+      <created>1612224280071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612224280071</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,16 +120,21 @@
     <MESSAGE value="add ribbon modal" />
     <MESSAGE value="update ribbon modal" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="add export data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add export data" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1612223497487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612223497487" />
     <state x="597" y="280" key="MultipleFileMergeDialog" timestamp="1612211088602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="597" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612211088602" />
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612215101114">
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612224283226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612215101114" />
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612224283226" />
   </component>
 </project>
