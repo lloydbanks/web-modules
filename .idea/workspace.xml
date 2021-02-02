@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4667fbfb-f855-4a5e-b2f8-2abcbd20c44a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid-placement/component.b2d232be8b2490803ef0.js" beforeDir="false" afterPath="$PROJECT_DIR$/grid-placement/component.b2d232be8b2490803ef0.js" afterDir="false" />
-    </list>
+    <list default="true" id="4667fbfb-f855-4a5e-b2f8-2abcbd20c44a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612209005100</updated>
       <workItem from="1612209006245" duration="4084000" />
-      <workItem from="1612250577867" duration="2170000" />
+      <workItem from="1612250577867" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="add ribbon modal">
       <created>1612209151329</created>
@@ -146,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612252200778</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add grid-placement">
+      <created>1612253434197</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612253434197</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,9 +187,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="597" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612211088602" />
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612252205770">
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612253438089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612252205770" />
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612253438089" />
   </component>
 </project>
