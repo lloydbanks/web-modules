@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4667fbfb-f855-4a5e-b2f8-2abcbd20c44a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inclinometry/component.6b010ecd625475e5b973.js" beforeDir="false" afterPath="$PROJECT_DIR$/inclinometry/component.6b010ecd625475e5b973.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ntUi8qUSbUF2D2Ld65C03X7uR9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +33,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inclinometry" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\grad-brd\web-modules\inclinometry" />
+      <recent name="C:\dev\grad-brd\web-modules\design-points" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612209005100</updated>
       <workItem from="1612209006245" duration="4084000" />
+      <workItem from="1612250577867" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="add ribbon modal">
       <created>1612209151329</created>
@@ -99,7 +110,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612224280071</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add design points">
+      <created>1612250648290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612250648290</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add inc">
+      <created>1612251604746</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612251604746</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add inc">
+      <created>1612251660229</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612251660229</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,13 +147,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ribbon modal" />
     <MESSAGE value="update ribbon modal" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="add export data" />
-    <option name="LAST_COMMIT_MESSAGE" value="add export data" />
+    <MESSAGE value="add design points" />
+    <MESSAGE value="add inc" />
+    <option name="LAST_COMMIT_MESSAGE" value="add inc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1612223497487">
@@ -132,9 +167,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="597" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612211088602" />
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612224283226">
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1612251675089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612224283226" />
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612251675089" />
   </component>
 </project>
